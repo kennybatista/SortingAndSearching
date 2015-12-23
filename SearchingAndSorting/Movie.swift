@@ -8,7 +8,6 @@
 
 import Foundation
 
-
 class Movie {
     var title: String
     var grossing:Float
